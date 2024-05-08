@@ -1,1 +1,1 @@
-print("hola gominola este es mi segundo archivo")
+print("hola gominola ")
